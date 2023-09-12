@@ -1,0 +1,21 @@
+p{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    background-color: rgb(255, 200, 132);
+}
+
+div {
+    width: 400px;
+    border: 2px solid red;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    background-color: black;
+}

@@ -1,0 +1,39 @@
+body{
+    background-color: darkslategrey;
+}
+
+
+
+p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 30pt;
+    font-weight: 700;
+}
+
+.c{
+    width: 724px;
+    margin: 0 auto;
+}
+
+header, footer{
+    background-color: grey;
+    height: 200px;
+}
+
+header p, footer p{
+    padding-top: 80px;
+}
+
+aside{
+    width: 30%;
+    float: left;
+    background-color: aliceblue;
+}
+
+section{
+    width: 70%;
+    background-color: bisque;
+    overflow: hidden;
+}
