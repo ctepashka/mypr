@@ -1,0 +1,95 @@
+.logo{
+     float: left;
+    margin-top: 12px;
+}
+
+ul {
+    float: right;
+}
+
+li{
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    margin-bottom: 15px;
+
+}
+
+.text{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+
+.wrapper{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 0 206px;
+    box-sizing: border-box;
+}
+
+.brkar{
+    width: 1028px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.chasi{
+    border: 1px solid green;
+    border-radius: 8px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.primer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+.sena{
+    color: rgb(197, 0, 0);
+}
+
+.polevvoda{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+}
+
+.podpisatsya{
+    border:  1px solid white;
+    display: inline;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    margin-left: 30px;
+}
+
+.reg{
+    border: 1px solid white;
+    background-color: rgb(155, 0, 0);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    padding: 20px;
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+.ff{
+    margin-left: 176px;
+}
