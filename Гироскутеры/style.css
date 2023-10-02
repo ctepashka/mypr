@@ -1,0 +1,262 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    width: 1180px;
+}
+
+h3{
+    margin: 0;
+    margin-top: 5px;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.main_menu ul li{
+    list-style-type: none;
+    margin-left: 33px;
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.banner{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.banner img{
+    opacity: 40%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.banner_name{
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    top: 306px;
+}
+
+.banner_name h1{
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.banner_name button{
+    width: 133px;
+    height: 35px;
+    border-radius: 10px;
+    background: #FFF;
+    color: black;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    border: 0;
+    margin-top: 65px;
+    cursor: pointer;
+}
+
+.banner_name p{
+    margin-top: 39px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.main{
+    width: 1180px;
+    margin: 0 auto;
+}
+
+.abouе{
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+h2{
+    margin: 0;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.about p{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.about p:nth-child(1){
+    margin: 0;
+    margin-top: 50px;
+}
+
+.about p:nth-child(2){
+    margin: 0;
+    margin-top: 20px;
+}
+
+.background{
+    background-color: #EEF2E3;
+}
+
+.catalog{
+    display: flex;
+    justify-content: space-between;
+}
+
+.catalog ul li{
+    list-style-type: none;
+    margin-left: 39px;
+    display: inline;
+}
+
+.catalog ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+ .catalog ul li a{
+    color: #FFF;
+}
+
+.catalog ul li{
+    background-color: rgb(223, 134, 0);
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.producti{
+    margin: 0 auto;
+    width: 1180px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+}
+
+.tovari{
+    width: 261px;
+    height: 390px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.50);
+    margin-top: 50px;
+    background-color: #FFF;
+}
+
+.vid{
+    width: 83px;
+    height: 30px;
+    background-image: url('img/Rectangle 6.png');
+}
+
+.vid p{
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+    padding-top: 5px;
+    font-style: normal;
+}
+
+.sigvei img{
+    position: relative;
+    margin: 0px 11px;
+}
+
+.name{
+    margin: 0;
+    font-size: 15px;
+    font-style: normal;
+    padding-left: 28px;
+    font-weight: 300;
+}
+
+.cena{
+    margin: 0;
+    padding-top: 13px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    padding-left: 28px;
+}
+
+.inf{
+    margin-top: 60px;
+}
+
+.inf h2{
+    margin-bottom: 50px;
+}
+
+.g{
+    background-color: rgb(0, 0, 0);
+    width: 260px;
+    height: 260px;
+}
+
+.g p{
+    position: relative;
+    color: #ffffff;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: -160px;
+}
+
+.g img {
+    opacity: 60%;
+}
+
+footer h4{
+    color: rgb(0, 0, 0);
+}
+
+footer section{
+    display: flex;
+}
+
+footer{
+    width: 100%;
+    background-color: #f0ffcc;
+    height: 325px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    color: #7f98b9;
+}
+
+.bl{
+    margin-left: 200px;
+}
+
+footer ul{
+    text-decoration: none;
+}
+
+footer li{
+    color: #5d7086;
+    list-style-type: none;
+    display: block;
+}
+
+footer div{
+    margin-left: 40px;
+}
