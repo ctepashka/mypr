@@ -1,0 +1,67 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+.header{
+    background-color: rgb(34, 110, 224);
+    border-radius: 20px;
+    margin: auto;
+    width: 50%;
+    height: 70px;
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.header p{
+    margin: 0 auto;
+    text-align: center;
+}
+
+h3{
+    margin: 30px;
+}
+
+.block{
+    border-left: 6px solid rgb(37, 37, 255);
+}
+
+
+
+.Opred{
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.block p{
+    margin-left: 30px;
+}
+
+img{
+    margin-left: 30px;
+    width: 3%;
+    height: 3%;
+}
+
+.a {
+    display: flex;
+    margin-top: 10px;
+}
+
+.a p{
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+.img{
+    position: relative;
+    margin-top: -200px;
+    margin-left: 1000px;
+}
+
+.img img{
+    width: 90%;
+}
